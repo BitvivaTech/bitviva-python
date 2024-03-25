@@ -1,9 +1,9 @@
-# bitexen-python
-Client for connecting to Bitexen Trading API
+# bitviva-python
+Client for connecting to Bitviva Trading API
 
 Install: 
 ```
-pip install bitexen-client
+pip install bitviva-client
 ```
 
 
